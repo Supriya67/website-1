@@ -1,0 +1,10 @@
+.inner_page-banner-about {
+    text-align: center;
+    background: url(../images/b32.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height:360px;
+  }
